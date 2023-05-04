@@ -8,6 +8,6 @@ The most technically intresting part of theis project was the reward system. I h
 
 
 
-Final Training output logs
+Final Training output logs  (Will update to include logs of other versions and TenserBoard outputs by 5/14)
 ![image](https://user-images.githubusercontent.com/35940692/235981029-a6a6d01b-156e-4b71-9050-c41e5ed05e09.png)
 
