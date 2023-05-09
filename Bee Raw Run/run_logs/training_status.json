@@ -1,0 +1,65 @@
+{
+    "Bee-havior": {
+        "checkpoints": [
+            {
+                "steps": 30999983,
+                "file_path": "results\\RawBeeRun1\\Bee-havior\\Bee-havior-30999983.onnx",
+                "reward": 92.59657947686117,
+                "creation_time": 1683244120.9160395,
+                "auxillary_file_paths": [
+                    "results\\RawBeeRun1\\Bee-havior\\Bee-havior-30999983.pt"
+                ]
+            },
+            {
+                "steps": 31499992,
+                "file_path": "results\\RawBeeRun1\\Bee-havior\\Bee-havior-31499992.onnx",
+                "reward": 91.58546255506607,
+                "creation_time": 1683245445.649146,
+                "auxillary_file_paths": [
+                    "results\\RawBeeRun1\\Bee-havior\\Bee-havior-31499992.pt"
+                ]
+            },
+            {
+                "steps": 31999996,
+                "file_path": "results\\RawBeeRun1\\Bee-havior\\Bee-havior-31999996.onnx",
+                "reward": 91.72097543735643,
+                "creation_time": 1683246727.9935372,
+                "auxillary_file_paths": [
+                    "results\\RawBeeRun1\\Bee-havior\\Bee-havior-31999996.pt"
+                ]
+            },
+            {
+                "steps": 32499991,
+                "file_path": "results\\RawBeeRun1\\Bee-havior\\Bee-havior-32499991.onnx",
+                "reward": 93.54355869492096,
+                "creation_time": 1683247977.198364,
+                "auxillary_file_paths": [
+                    "results\\RawBeeRun1\\Bee-havior\\Bee-havior-32499991.pt"
+                ]
+            },
+            {
+                "steps": 32994721,
+                "file_path": "results\\RawBeeRun1\\Bee-havior\\Bee-havior-32994721.onnx",
+                "reward": null,
+                "creation_time": 1683249269.1138847,
+                "auxillary_file_paths": [
+                    "results\\RawBeeRun1\\Bee-havior\\Bee-havior-32994721.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 32994721,
+            "file_path": "results\\RawBeeRun1\\Bee-havior.onnx",
+            "reward": null,
+            "creation_time": 1683249269.1138847,
+            "auxillary_file_paths": [
+                "results\\RawBeeRun1\\Bee-havior\\Bee-havior-32994721.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
