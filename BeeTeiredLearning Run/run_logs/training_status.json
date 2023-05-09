@@ -1,0 +1,65 @@
+{
+    "Bee-havior": {
+        "checkpoints": [
+            {
+                "steps": 28499976,
+                "file_path": "results\\RewardTeirsBeeRun3\\Bee-havior\\Bee-havior-28499976.onnx",
+                "reward": 83.84904284412033,
+                "creation_time": 1683319740.8967087,
+                "auxillary_file_paths": [
+                    "results\\RewardTeirsBeeRun3\\Bee-havior\\Bee-havior-28499976.pt"
+                ]
+            },
+            {
+                "steps": 28999999,
+                "file_path": "results\\RewardTeirsBeeRun3\\Bee-havior\\Bee-havior-28999999.onnx",
+                "reward": 84.29236739974127,
+                "creation_time": 1683321051.3474176,
+                "auxillary_file_paths": [
+                    "results\\RewardTeirsBeeRun3\\Bee-havior\\Bee-havior-28999999.pt"
+                ]
+            },
+            {
+                "steps": 29499992,
+                "file_path": "results\\RewardTeirsBeeRun3\\Bee-havior\\Bee-havior-29499992.onnx",
+                "reward": 86.25796661608497,
+                "creation_time": 1683322360.873575,
+                "auxillary_file_paths": [
+                    "results\\RewardTeirsBeeRun3\\Bee-havior\\Bee-havior-29499992.pt"
+                ]
+            },
+            {
+                "steps": 29999983,
+                "file_path": "results\\RewardTeirsBeeRun3\\Bee-havior\\Bee-havior-29999983.onnx",
+                "reward": 83.58660261542568,
+                "creation_time": 1683323618.153656,
+                "auxillary_file_paths": [
+                    "results\\RewardTeirsBeeRun3\\Bee-havior\\Bee-havior-29999983.pt"
+                ]
+            },
+            {
+                "steps": 30000002,
+                "file_path": "results\\RewardTeirsBeeRun3\\Bee-havior\\Bee-havior-30000002.onnx",
+                "reward": 83.5909818569904,
+                "creation_time": 1683323618.3118436,
+                "auxillary_file_paths": [
+                    "results\\RewardTeirsBeeRun3\\Bee-havior\\Bee-havior-30000002.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 30000002,
+            "file_path": "results\\RewardTeirsBeeRun3\\Bee-havior.onnx",
+            "reward": 83.5909818569904,
+            "creation_time": 1683323618.3118436,
+            "auxillary_file_paths": [
+                "results\\RewardTeirsBeeRun3\\Bee-havior\\Bee-havior-30000002.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
