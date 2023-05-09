@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1682712239",
+        "python_version": "3.9.7 (tags/v3.9.7:1016ef3, Aug 30 2021, 20:19:38) [MSC v.1929 64 bit (AMD64)]",
+        "command_line_arguments": "F:\\Python\\Scripts\\mlagents-learn config/ppo/rollerball_config.yaml --run-id=Beez5LayerWithStaggardRewardsFix4",
+        "mlagents_version": "0.30.0",
+        "mlagents_envs_version": "0.30.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cu110",
+        "numpy_version": "1.21.2",
+        "end_time_seconds": "1682712251"
+    },
+    "total": 11.3213172,
+    "count": 1,
+    "self": 0.007591899999997764,
+    "children": {
+        "run_training.setup": {
+            "total": 0.15974529999999998,
+            "count": 1,
+            "self": 0.15974529999999998
+        },
+        "TrainerController.start_learning": {
+            "total": 11.15398,
+            "count": 1,
+            "self": 0.0002783000000015079,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 11.153683299999999,
+                    "count": 1,
+                    "self": 11.153683299999999
+                },
+                "TrainerController._save_models": {
+                    "total": 1.8400000000085015e-05,
+                    "count": 1,
+                    "self": 1.8400000000085015e-05
+                }
+            }
+        }
+    }
+}

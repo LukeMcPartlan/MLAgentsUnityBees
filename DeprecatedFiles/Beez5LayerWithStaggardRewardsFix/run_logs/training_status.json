@@ -1,0 +1,38 @@
+{
+    "Bee-havior": {
+        "checkpoints": [
+            {
+                "steps": 499996,
+                "file_path": "results\\Beez5LayerWithStaggardRewardsFix\\Bee-havior\\Bee-havior-499996.onnx",
+                "reward": 0.0,
+                "creation_time": 1682710245.9351683,
+                "auxillary_file_paths": [
+                    "results\\Beez5LayerWithStaggardRewardsFix\\Bee-havior\\Bee-havior-499996.pt"
+                ]
+            },
+            {
+                "steps": 630510,
+                "file_path": "results\\Beez5LayerWithStaggardRewardsFix\\Bee-havior\\Bee-havior-630510.onnx",
+                "reward": null,
+                "creation_time": 1682711026.6678739,
+                "auxillary_file_paths": [
+                    "results\\Beez5LayerWithStaggardRewardsFix\\Bee-havior\\Bee-havior-630510.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 630510,
+            "file_path": "results\\Beez5LayerWithStaggardRewardsFix\\Bee-havior.onnx",
+            "reward": null,
+            "creation_time": 1682711026.6678739,
+            "auxillary_file_paths": [
+                "results\\Beez5LayerWithStaggardRewardsFix\\Bee-havior\\Bee-havior-630510.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
