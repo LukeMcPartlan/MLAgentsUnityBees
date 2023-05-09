@@ -1,0 +1,65 @@
+{
+    "Bee-havior": {
+        "checkpoints": [
+            {
+                "steps": 28499989,
+                "file_path": "results\\Curriculum2StepRun2\\Bee-havior\\Bee-havior-28499989.onnx",
+                "reward": 87.49461902712011,
+                "creation_time": 1683659802.118724,
+                "auxillary_file_paths": [
+                    "results\\Curriculum2StepRun2\\Bee-havior\\Bee-havior-28499989.pt"
+                ]
+            },
+            {
+                "steps": 28999989,
+                "file_path": "results\\Curriculum2StepRun2\\Bee-havior\\Bee-havior-28999989.onnx",
+                "reward": 86.21726062687848,
+                "creation_time": 1683660912.6882706,
+                "auxillary_file_paths": [
+                    "results\\Curriculum2StepRun2\\Bee-havior\\Bee-havior-28999989.pt"
+                ]
+            },
+            {
+                "steps": 29499985,
+                "file_path": "results\\Curriculum2StepRun2\\Bee-havior\\Bee-havior-29499985.onnx",
+                "reward": 86.9195189639223,
+                "creation_time": 1683661965.1584525,
+                "auxillary_file_paths": [
+                    "results\\Curriculum2StepRun2\\Bee-havior\\Bee-havior-29499985.pt"
+                ]
+            },
+            {
+                "steps": 29999982,
+                "file_path": "results\\Curriculum2StepRun2\\Bee-havior\\Bee-havior-29999982.onnx",
+                "reward": 85.37067545304778,
+                "creation_time": 1683663112.480009,
+                "auxillary_file_paths": [
+                    "results\\Curriculum2StepRun2\\Bee-havior\\Bee-havior-29999982.pt"
+                ]
+            },
+            {
+                "steps": 30000013,
+                "file_path": "results\\Curriculum2StepRun2\\Bee-havior\\Bee-havior-30000013.onnx",
+                "reward": 85.3425559947299,
+                "creation_time": 1683663112.8540113,
+                "auxillary_file_paths": [
+                    "results\\Curriculum2StepRun2\\Bee-havior\\Bee-havior-30000013.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 30000013,
+            "file_path": "results\\Curriculum2StepRun2\\Bee-havior.onnx",
+            "reward": 85.3425559947299,
+            "creation_time": 1683663112.8540113,
+            "auxillary_file_paths": [
+                "results\\Curriculum2StepRun2\\Bee-havior\\Bee-havior-30000013.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
